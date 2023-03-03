@@ -1,6 +1,6 @@
 # Não sei usar isso, mas é uma função possível do Python
 #from datetime import date
-#variável (2022) = date.today().year
+#"variável" (2022) = date.today().year
 menores = 0
 maiores = 0
 for c in range (0,7):
