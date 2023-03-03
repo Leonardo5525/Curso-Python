@@ -1,0 +1,5 @@
+frase = input('Escreva uma fresa de sua escolha = ')
+mai = frase.upper()
+print(mai.count('A'))
+print('A primeira letra "a" está no lugar', mai.find('A')+1)
+print('A ultima letra "a" está no lugar', mai.rfind('A')+1)
